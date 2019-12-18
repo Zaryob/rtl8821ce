@@ -1,5 +1,6 @@
 /linux
 *.o
+*.ko
 *.cmd
 *.o.d
 
